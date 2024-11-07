@@ -1,8 +1,8 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "DundeeScript Meetup",
-  description: "DundeeScript Meetup",
+  title: "DundeeScript",
+  description: "DundeeScript",
   cleanUrls: true,
   head: [
     ["script", { src: "/_vercel/insights/script.js", defer: true }],
