@@ -4,6 +4,14 @@ export default defineConfig({
   title: "DundeeScript Meetup",
   description: "DundeeScript Meetup",
   cleanUrls: true,
+  head: [
+    ["script", { src: "/_vercel/insights/script.js", defer: true }],
+    [
+      "script",
+      {},
+      `window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };`,
+    ],
+  ],
   themeConfig: {
     socialLinks: [
       { icon: "github", link: "https://github.com/dundeescript" },
