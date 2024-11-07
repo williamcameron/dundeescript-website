@@ -8,6 +8,6 @@ If a community member engages in harassing behavior, the DundeeScript organisers
 
 If you have questions or feedback about this Code of Conduct please contact one of the organisers.
 
-View the current organisers [here](/organisers/).
+View the current organisers [here](/organisers).
 
 DundeeScript organisers developed this Code of Conduct to govern all DundeeScript events and communication channels. We used the [Geek Feminism Conference anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy) as a starting point. This Code of Conduct, like its inspiration, is licensed under the Creative Commons Zero license.
