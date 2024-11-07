@@ -15,9 +15,9 @@ hero:
 
 features:
   - title: Monthly Meetup
-    details: Checkout our [Eventbrite](https://www.eventbrite.co.uk/e/dundeescript-meetup-tickets-1038765113417) page to RSVP for the next meetup.
+    details: Checkout our <a target="_blank" rel="noopener noreferrer"https://www.eventbrite.co.uk/e/dundeescript-meetup-tickets-1038765113417">Eventbrite</a> page to RSVP for the next meetup.
   - title: Sponsors
-    details: We are always looking for sponsors to help us cover costs. If you are interested in sponsoring, please contact us. We are grateful to all our [Sponsors](/sponsors).
+    details: We are always looking for sponsors to help us cover costs. If you are interested in sponsoring, please contact us. We are grateful to all our <a target="_blank" rel="noopener noreferrer"/sponsors">Sponsors</a>.
   - title: Subimt a Talk
-    details: Interested in speaking at our meetup? Submit a talk [here](https://forms.gle/vTYNzgCEXggSroNz9)! Talks of all types and skill levels are welcome.
+    details: Interested in speaking at our meetup? Submit a talk <a target="_blank" rel="noopener noreferrer"https://forms.gle/vTYNzgCEXggSroNz9">here</a>! Talks of all types and skill levels are welcome.
 ---
