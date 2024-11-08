@@ -1,4 +1,6 @@
 
+# Organisers
+
 Meet the organisers! If you see us at the meetup or anywhere else around Dundee, be sure to say hello / introduce yourself.
 
 <div class="organisers">
@@ -9,7 +11,7 @@ Meet the organisers! If you see us at the meetup or anywhere else around Dundee,
   </p>
 </div>
 <div class="organiser">
-  <img alt="william" src="/images/organisers/placeholder.jpg" />
+  <img alt="placeholder" src="/images/organisers/placeholder.jpg" />
   <p>
     <span class="organiser-name">Cheryl Torano</span> - <span class="pronouns">she/her</span> - Business Development Manager @ Abertay cyberQuarter, Cybersecurity professional and Ethical Hacker
   </p>
