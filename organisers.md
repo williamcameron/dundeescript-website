@@ -11,14 +11,14 @@ Meet the organisers! If you see us at the meetup or anywhere else around Dundee,
   </p>
 </div>
 <div class="organiser">
-  <img alt="cheryl" src="/images/organisers/placeholder.jpg" />
+  <img alt="cheryl" src="/images/organisers/cheryl.jpg" />
   <p>
     <span class="organiser-name">Cheryl Torano</span> - <span class="pronouns">she/her</span> - Business Development Manager @ Abertay cyberQuarter, Cybersecurity professional and Ethical Hacker
   </p>
 </div>
 
   <div class="organiser">
-  <img alt="dom" src="/images/organisers/placeholder.jpg" />
+  <img alt="dom" src="/images/organisers/dom.jpg" />
   <p>
     <span class="organiser-name">Dominik Subocz</span> - <span class="pronouns">he/him</span> - Frontend Developer @ mtc, computing student @ Abertay University, passionate web developer and designer with a love for sci-fi movies and creating intricate LEGO builds in his free time.
   </p>
