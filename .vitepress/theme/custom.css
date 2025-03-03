@@ -17,3 +17,8 @@ html.dark a {
 a {
     color: var(--dundee-green);
 }
+
+.organiser img {
+    max-height: 300px;
+    width: auto;
+}
