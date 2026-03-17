@@ -2,7 +2,7 @@
 
 We are very grateful to all our sponsors for supporting our meetups. If you are interested in sponsoring, please contact us.
 
-<SponsorsCarousel>
+<div class="sponsors-grid">
   <div class="sponsor-card">
     <a href="https://www.abertay.ac.uk/business/cyberquarter/" target="_blank">
       <img alt="CyberQuarter" src="/images/sponsors/abertay-cyber-quarter-logo.jpg">
@@ -21,40 +21,40 @@ We are very grateful to all our sponsors for supporting our meetups. If you are 
       <div class="name">mtc.</div>
     </a>
   </div>
-</SponsorsCarousel>
+</div>
 
 
 <style>
-  .sponsors {
+  .sponsors-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
+    align-items: center;
   }
 
-  .sponsor img {
-    border-radius: 25px;
-    width: 100%;
+  .sponsor-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.75rem;
+    border-radius: 12px;
   }
 
-  .sponsor-name {
-    font-weight: bold;
+  .sponsor-card img {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    border-radius: 8px;
+    background: transparent;
   }
 
-  .sponsor-description {
-    font-style: italic;
+  .sponsor-card .name{ margin-top: 0.5rem; font-weight: 600; text-align:center }
+
+  @media (max-width: 900px) {
+    .sponsors-grid { grid-template-columns: repeat(2, 1fr); }
   }
 
   @media (max-width: 600px) {
-    .sponsors {
-      grid-template-columns: 1fr;
-    }
-
-    html .sponsor {
-      border-bottom: 2px solid black;
-    }
-
-    html.dark .sponsor {
-      border-bottom: 2px solid #DFDFD7;
-    }
+    .sponsors-grid { grid-template-columns: 1fr; }
   }
 </style>
