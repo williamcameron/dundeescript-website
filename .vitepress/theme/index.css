@@ -43,11 +43,20 @@ h1,h2,h3,h4{
   box-shadow: 0 6px 18px rgba(12,16,20,0.04);
 }
 
-.organiser img, .sponsor img{
+.organiser img{
+  border-radius: 14px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
+  object-fit: cover; /* crop top/bottom while preserving aspect */
+  display: block;
+}
+
+.sponsor img{
   border-radius: 14px;
   width: 100%;
   height: auto;
-  object-fit: cover;
+  object-fit: contain; /* preserve sponsor logos without cropping */
 }
 
 /* Accessibility: focus styles for buttons/links */
