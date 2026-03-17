@@ -17,6 +17,15 @@ export default {
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com' }],
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:wght@400;700&display=swap' }]
   ],
-  // Keep VitePress default title handling (remove custom titleTemplate)
+  themeConfig: {
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Organisers', link: '/organisers' },
+      { text: 'News', link: '/news/' },
+      { text: 'Sponsors', link: '/sponsors' },
+      { text: 'Activities', link: '/activities' },
+      { text: 'Code of Conduct', link: '/code-of-conduct' }
+    ]
+  }
 }
 
