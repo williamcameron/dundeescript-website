@@ -14,6 +14,8 @@ hero:
       text: Submit a Talk
       link: https://forms.gle/vTYNzgCEXggSroNz9
 
+skip_to_content: true
+
 features:
   - title: Monthly Meetup
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://www.eventbrite.co.uk/e/dundeescript-meetup-tickets-1038765113417">Eventbrite</a> page to RSVP for the next meetup.
