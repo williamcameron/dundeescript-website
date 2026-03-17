@@ -2,6 +2,7 @@ export default {
   title: 'DundeeScript Meetup',
   description: 'Dundee JavaScript and TypeScript community - monthly meetups',
   head: [
+    ['script', { innerHTML: "(function(){try{var c=localStorage.getItem('analytics-consent'); if(c==='yes'){var s=document.createElement('script'); s.defer=true; s.dataset.domain='your-domain.com'; s.src='https://plausible.io/js/plausible.js'; document.head.appendChild(s);} }catch(e){} })();" }],
     ['meta', { name: 'description', content: 'DundeeScript Meetup: monthly JavaScript and TypeScript talks in Dundee. Join us for talks, networking, and community.' }],
     ['meta', { property: 'og:locale', content: 'en_GB' }],
     ['meta', { property: 'og:type', content: 'website' }],
