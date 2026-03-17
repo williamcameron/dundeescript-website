@@ -14,7 +14,7 @@ export default {
     ['meta', { name: 'twitter:description', content: 'Monthly JavaScript & TypeScript meetups in Dundee.' }],
     ['link', { rel: 'icon', href: '/images/dundeescript-logo.png' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com' }],
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap' }]
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:wght@400;700&display=swap' }]
   ],
   // Title template: page title — site title
   titleTemplate: '%s — DundeeScript Meetup'
