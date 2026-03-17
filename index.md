@@ -5,13 +5,14 @@ hero:
   name: "DundeeScript Meetup"
   image: ./images/dundeescript-logo.png
   tagline: We are a community of developers focused on JavaScript and TypeScript in the Dundee area. We meet every month to talk about JS/TS best practices, features coming to ECMAScript, application development, what's going on in the JS community, and more.
+  next_meetup: "2026-04-15"
   actions:
     - theme: brand
-      text: Meet the Organisers
-      link: /organisers
+      text: RSVP on Eventbrite
+      link: https://www.eventbrite.co.uk/e/dundeescript-meetup-tickets-1038765113417
     - theme: alt
-      text: Read the Code of Conduct
-      link: /code-of-conduct
+      text: Submit a Talk
+      link: https://forms.gle/vTYNzgCEXggSroNz9
 
 features:
   - title: Monthly Meetup
