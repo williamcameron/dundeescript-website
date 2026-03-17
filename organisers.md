@@ -7,16 +7,10 @@ Meet the organisers! If you see us at the meetup or anywhere else around Dundee,
 <div class="organiser">
   <img alt="william" src="/images/organisers/william.jpg" />
   <p>
-    <span class="organiser-name">William Cameron</span> - <span class="pronouns">he/him</span> - Principal Engineer @ STV Player, Spends his time watching Netflix and coding React and Node.js
+    <span class="organiser-name">William Cameron</span> - <span class="pronouns">he/him</span> - Engineering Manager @ STV Player.
   </p>
 </div>
-<div class="organiser">
-  <img alt="cheryl" src="/images/organisers/cheryl.jpg" />
-  <p>
-    <span class="organiser-name">Cheryl Torano</span> - <span class="pronouns">she/her</span> - Business Development Manager @ Abertay cyberQuarter, Cybersecurity professional and Ethical Hacker
-  </p>
-</div>
-
+  
   <div class="organiser">
   <img alt="dom" src="/images/organisers/dom.jpg" />
   <p>
@@ -25,11 +19,19 @@ Meet the organisers! If you see us at the meetup or anywhere else around Dundee,
 </div>
 
 <div class="organiser">
-  <img alt="prakash" src="/images/organisers/placeholder.jpg" />
+  <img alt="prakash" src="/images/organisers/jack.jpg" />
   <p>
-    <span class="organiser-name">Prakash Jha</span> - <span class="pronouns">he/him</span> - Systems Engineer @ NCR Atleos
+    <span class="organiser-name">Jack Jefferson</span> - <span class="pronouns">he/him</span> - Backend Developer @ mtc, passionate advocate for open-source software and a strong believer in Linux as the ideal personal and development environment.
   </p>
 </div>
+
+<div class="organiser">
+  <img alt="cheryl" src="/images/organisers/cheryl.jpg" />
+  <p>
+    <span class="organiser-name">Cheryl Torano</span> - <span class="pronouns">she/her</span> - Business Development Manager @ Abertay cyberQuarter, Cybersecurity professional and Ethical Hacker
+  </p>
+</div>
+
 </div>
 
 <style>
