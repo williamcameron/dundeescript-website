@@ -2,7 +2,8 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "generate-og": "node scripts/generate-og.js \"Title\" public/images/og-generated.svg"
   },
   "devDependencies": {
     "vitepress": "^1.5.0"
