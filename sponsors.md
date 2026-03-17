@@ -41,11 +41,15 @@ We are very grateful to all our sponsors for supporting our meetups. If you are 
   }
 
   .sponsor-card img {
-    width: 120px;
-    height: 120px;
+    width: 135px;
+    height: 135px;
     object-fit: contain;
     border-radius: 8px;
     background: transparent;
+  }
+  
+  .sponsor-card a {
+    justify-items: center;
   }
 
   .sponsor-card .name{ margin-top: 0.5rem; font-weight: 600; text-align:center }

@@ -60,6 +60,8 @@ Meet the organisers! If you see us at the meetup or anywhere else around Dundee,
   .organiser img {
     border-radius: 25px;
     width: 100%;
+    object-fit: cover;
+    aspect-ratio: 1;
   }
 
   .organiser-name {
