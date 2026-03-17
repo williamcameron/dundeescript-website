@@ -1,12 +1,13 @@
 <template>
   <div>
     <a class="skip-link" href="#main">Skip to content</a>
-    <slot />
+    <Content />
     <AnalyticsConsent />
   </div>
 </template>
 
 <script setup>
+import { Content } from 'vitepress'
 import AnalyticsConsent from '../components/AnalyticsConsent.vue'
 </script>
 
